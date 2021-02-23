@@ -1,1 +1,1 @@
-Hi this is jenkin file
+echo "this is executed at %time%"
